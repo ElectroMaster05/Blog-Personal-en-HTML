@@ -1,0 +1,338 @@
+
+
+.imagen2{
+
+  width: 85px;
+  position: absolute;
+  top:20 ;
+  left:10;
+ 
+
+
+}
+
+.texto0{
+ 
+ position: absolute;
+ top: 0px;
+  left: 500px;
+
+
+}
+.texto2{
+ 
+ position: absolute;
+ top: 10px;
+  left: 815px;
+
+
+}
+
+
+
+.imagen1{
+  position: absolute;
+  top: 10px;
+  left: 760px;
+
+  width: 50px;
+
+}
+
+
+
+.texto1{
+  position: relative;
+  top: 100px;
+ left: 30px;
+
+ 
+
+  
+  
+  background-color:grey;
+  width: 630px;
+height: 305px;
+ 
+
+
+
+}
+
+.contenido{
+position: absolute;
+
+top: 40px;
+left:140px;
+font-size: 15;
+
+color: white;
+
+}
+
+.texto3{
+
+position: absolute;
+
+top:-10px;
+left:260px;
+font-size: 25;
+
+
+}
+
+.contenido1{
+
+position: absolute;
+
+top:90px;
+left:130px;
+font-size: 20;
+}
+
+.texto5{
+ position: relative;
+   
+  top: -205px;
+ left: 685;
+  background-color:grey;
+  width: 630px;
+height: 630px;
+ 
+
+
+}
+
+.texto6{
+position: absolute;
+left: 20px;
+top: -15px;
+}
+
+
+.contenido2{
+position: absolute;
+left: 20px;
+top: 30px;
+color: white;
+}
+
+.texto8{
+ position: relative;
+  background-color:grey;  
+  top: -510px;
+ left: 30px;
+ 
+width: 630px;
+height: 305px;
+ 
+
+
+}
+
+
+.texto9{
+
+position: absolute;
+  top: -15px;
+ left:10px;
+
+}
+
+.contenido3{
+position: absolute;
+
+  color: white;
+
+   top: 30px;
+ left: 10px;
+}
+
+
+.imagen3{
+  position: absolute;
+ width: 85px;
+ left: 100px;
+ top: 100px;
+}
+
+.imagen4{
+    position: absolute;
+   width: 85px;
+    left: 1100px;
+    top: 100px;
+}
+
+.imagen5{
+    position: absolute;
+   width: 85px;
+   top: 190;
+   left: 100px;
+}
+
+.imagen6{
+    position: absolute;
+   width: 85px;
+     top: 195;
+    left: 1100px;
+}
+
+.imagen7{
+    position: absolute;
+   width: 85px;
+    top: 330;
+    left: 90px;
+}
+
+
+.imagen8{
+  position: absolute;
+  width: 85px; 
+   
+    left: 1100px;
+    top: 330px;
+}
+
+.imagen9{
+    position: absolute;
+   width: 85px;
+    top: 470;
+    left: 90px;
+}
+
+.imagen10{
+    position: absolute;
+  width: 85px;
+    top: 460px;  
+    left: 1100px;
+}
+
+.formulario{
+position: relative;
+
+background-color: grey;
+ top: -470px;
+ left: 30px;
+
+ width: 1290px;
+height: 600px;
+}
+
+
+.texto11{
+  position: absolute;
+
+top: -10px;
+left: 360px;
+}
+
+
+.p1{
+position: absolute;
+font-size: 20;
+ left: 250px;
+ top: 100px;
+}
+
+.p2{
+position: absolute;
+font-size: 20;
+ left: 900px;
+ top: 100px;
+}
+
+.p3{
+position: absolute;
+font-size: 20;
+ left: 250px;
+ top: 190px;
+}
+
+.p4{
+position: absolute;
+font-size: 20;
+ left: 900px;
+ top: 195px;
+}
+
+.p5{
+position: absolute;
+font-size: 20;
+ left: 250px;
+ top: 330px;
+}
+
+.p6{
+position: absolute;
+font-size: 20;
+ left: 900px;
+ top: 330px;
+}
+
+.p7{
+position: absolute;
+font-size: 20;
+ left: 250px;
+ top: 470px;
+}
+.p8{
+position: absolute;
+font-size: 20;
+ left: 900px;
+ top: 470px;
+}
+
+
+
+.barra1{
+
+position: absolute;
+
+ left: 420px;
+ top: 120px;
+width: 400px;
+}
+
+
+.barra2{
+
+position: absolute;
+
+ left: 420px;
+ top: 210px;
+width: 400px;
+}
+
+.barra3{
+
+position: absolute;
+
+ left: 420px;
+ top: 350px;
+width: 400px;
+}
+
+
+.barra4{
+
+position: absolute;
+
+ left: 420px;
+ top: 490px;
+width: 400px;
+}
+
+.textodiario{
+  position: absolute;
+top: 70px;
+left: 20px;
+font-size: 25;
+
+}
+
+.mt{
+position: absolute;
+  left: 10px;
+font-size: 25;
+  top: 75px;
+}
